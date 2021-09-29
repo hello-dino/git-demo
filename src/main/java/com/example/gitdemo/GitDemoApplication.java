@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitDemoApplication {
 
     public static void main(String[] args) {
-        //login2
+        //singin here
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
